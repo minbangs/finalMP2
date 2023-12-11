@@ -1,0 +1,66 @@
+
+@media (max-width: 430px) /* iphone 14 pro max*/ {
+    #all_cont .row .col-lg-12 #prod__table {
+        position: relative;
+        margin-left: 10px;
+    }
+    #all_cont .row .col-lg-12 #prod__table tbody tr #prod--name {
+        position: absolute;
+        left: 5px;
+        border: none;
+    }
+    #all_cont .row .col-lg-12 #prod__table tbody tr #prod--cate {
+        position: relative;
+        top: 50px;
+        background: none;
+        left: 20px;
+    }
+    #all_cont .row .col-lg-12 #prod__table tbody tr #prod--price {
+        position: relative;
+        top: 50px;
+        background: none;
+        left: 40px;
+    }
+    #all_cont .row .col-lg-12 #prod__table tbody tr #act-btn {
+        position: relative;
+        top: 45px;
+        background: none;
+        left: 50px;
+    }
+    #all_cont .row .col-lg-12 #prod__table tbody tr #act-btn button {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 414px) /* iphone xr */ {
+
+}
+
+@media (max-width: 412px) /* samsung galaxy a51 and S20 ultra and pixel 7*/ {
+
+}
+
+@media (max-width: 390px) /* iphone 12 pro */ {
+    #all_cont .row .col-lg-12 #prod__table {
+        position: relative;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 375px) /* iphone SE*/ {
+    #all_cont .row .col-lg-12 #prod__table {
+        position: relative;
+        margin-left: -10px;
+    }
+}
+
+@media (max-width: 360px) /* samsung galaxy S8+*/ {
+    #all_cont .row .col-lg-12 #prod__table {
+        position: relative;
+        margin-left: -20px;
+    }
+}
+
+@media (max-width: 280px) /* samsung galaxy fold */ {
+
+}
