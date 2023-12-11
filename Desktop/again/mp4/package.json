@@ -2,7 +2,7 @@
   "name": "mp4",
   "homepage": "https://minbangalan.github.io/finalMP2",
   "version": "0.1.0",
-  "private": true,
+  "private": "true",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
